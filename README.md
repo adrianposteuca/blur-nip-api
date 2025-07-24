@@ -2,6 +2,7 @@ AI NSFW Blur API
 Acesta este un microserviciu API, construit în Python cu Flask și împachetat în Docker. Folosește un model AI YOLO (erax-ai/EraX-Anti-NSFW-V1.1) pentru a detecta mameloanele în imagini și a aplica automat un filtru de blur peste zonele detectate.
 
 Funcționalități
+
 Detecție de obiecte folosind un model AI pre-antrenat.
 
 Aplicare automată a unui filtru Gaussian Blur pe zonele detectate.
